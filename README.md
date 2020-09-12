@@ -41,7 +41,7 @@ To run this application you must obtain publish and subscribe keys from your Pub
 1. Clone the GitHub repository.
 
     ```bash
-    git clone git@github.com:pubnub/typescript-ref-app-team-chat.git
+    git clone git@github.com:mondalbidisha/Team-Chat.git
     ```
 
 1. Install the project.
@@ -69,7 +69,7 @@ You can view it in the `/docs` directory or run the documentation site locally.
 1. If you haven't already, clone the GitHub repository
 
     ```bash
-    git clone git@github.com:pubnub/typescript-ref-app-team-chat.git
+    git clone git@github.com:mondalbidisha/Team-Chat.git
     ```
 
 1. Install the dependencies
